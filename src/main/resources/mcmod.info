@@ -1,0 +1,12 @@
+[{
+    "modid": "${modid}",
+    "name": "${modname}",
+    "description": "Generate other types of stone from vanilla cobblegen",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "logoFile": "",
+    "url": "",
+    "authorList": ["serenibyss"],
+    "credits": "",
+    "dependencies": []
+}]
